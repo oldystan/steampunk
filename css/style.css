@@ -1,0 +1,24 @@
+*{
+	font-family: 'Lobster', cursive;font-weight: 300;
+	color: white;
+}
+head {
+}
+body{
+	background-color: black;
+	background-image: url('/images/background.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:left top;
+}
+a{
+	font-size: 2em;
+	text-decoration: none; /* Отменяем подчеркивание у ссылки */
+	zoom:1;
+}
+#shop:hover{
+	zoom:1.2;
+}
+#about:hover{
+	zoom:1.2;
+}
