@@ -22,3 +22,12 @@ a{
 #about:hover{
 	zoom:1.2;
 }
+#block_shop{
+	float: left;
+	height: 40px;
+}
+#block_about{
+	height: 40px;
+
+	float: left;
+}
